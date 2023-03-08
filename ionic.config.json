@@ -1,0 +1,8 @@
+{
+  "name": "Intro to mobile app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "59ffd76a"
+}
