@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Intro to mobile app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
